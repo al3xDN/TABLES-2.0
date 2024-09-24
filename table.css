@@ -1,0 +1,56 @@
+body{
+    background-color:black;
+}
+header{
+    font-size:22em;
+    border:10px outset red;
+    background-color:black;
+    color:red;
+}
+article{
+    border:10px outset red;
+    background-color:black;
+    
+}
+table{
+    border:5px outset black;
+    background-color:brown;
+    border-collapse: collapse;
+}
+
+td{
+    border:5px outset black;
+    
+}
+tbody tr:nth-child(odd){
+    background-color:gray;
+
+}
+tbody tr:hover{
+    background-color:red;
+}
+tfoot{
+    border:5px outset black;
+    text-align: center;
+}
+thead{
+    border: 5px outset black;
+}
+th{
+    border: 5px outset black;
+}
+tfoot tr:nth-child(2){
+    background-color:yellow;
+}
+tfoot tr:nth-child(1){
+    background-color:gray;
+}
+h1{
+    border: 7px outset red;
+    background-color: black;
+    color: red;
+
+}
+thead{
+    background-color: yellow;
+}
