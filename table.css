@@ -10,6 +10,7 @@ header{
 article{
     border:10px outset red;
     background-color:black;
+    color: red;
     
 }
 table{
@@ -53,4 +54,10 @@ h1{
 }
 thead{
     background-color: yellow;
+}
+img{
+    width: 250px;
+    float: left;
+    margin: 10px;
+
 }
